@@ -3,7 +3,7 @@
 title: Ahmad Waleed Salehi
 
 # Name pronunciation (optional)
-name_pronunciation: Waleed Salehi
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Ahmad Waleed
